@@ -6,12 +6,15 @@ In this paper, we argue that to prevent inconsistencies in birdsong annotation w
 # Dataset
 You need to download these datasets and have them locally. These are not ours, please cite them independently and see their licensing and manuals. Many thanks to the authors of these datasets and related works.
 
+
 [Bengalese Finches](https://figshare.com/articles/dataset/Bengalese_Finch_song_repository/4805749)
+
 
 [Canaries](https://datadryad.org/stash/dataset/doi:10.5061/dryad.xgxd254f4)
 
 # External code
 We used this code for some thresholding segmentation algorithms and data loading for Bengalese finches:
+
 
 [evfuncs](https://github.com/NickleDave/evfuncs): 
 
