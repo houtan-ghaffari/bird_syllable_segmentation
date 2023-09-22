@@ -12,5 +12,5 @@ You need to download these datasets and have them locally. These are not ours, p
 We used this code for some thresholding segmentation algorithms and data loading for Bengalese finches:
 [evfuncs](https://github.com/NickleDave/evfuncs): 
 
-
-
+# Disclaimer:
+This code is only published for research and educational purposes. We are not publishing a software here, and the responsibility of using it is on yourself.
